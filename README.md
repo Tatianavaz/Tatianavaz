@@ -23,4 +23,10 @@
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
+ 
+ <img src="https://www.unixtutorial.org/images/software/linux-mint.png" alt="Give logo" width="200" />
+</a>
+ <img src="https://cdn.worldvectorlogo.com/logos/tux.svg" alt="Give logo" width="150" />
+</a>
+
 </div>
